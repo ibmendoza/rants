@@ -1,2 +1,1 @@
-# rants
-Rants from all over
+- From Ryan Dahl ([I hate almost all software](https://github.com/ibmendoza/rants/blob/master/RYAN_DAHL.MD))
